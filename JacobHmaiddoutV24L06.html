@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><JACOBHMAIDDOUT class="COM"></JACOBHMAIDDOUT></title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        h1 {
+            color: yellow;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .section h2 {
+            border-bottom: 2px solid yellow;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+
+        a {
+            color: yellow;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Jacob Hmaiddout</h1>
+        <p> </p>
+    </header>
+
+    <section class="section">
+        <h2>Plus sur moi</h2>
+        <p>Mon nom est Jacob Hmaidddout. Je suis née à Trois-Rivières mais j'ai grandis à Sherbrooke.
+        S'est pour cela que je considère Sherbrooke ma ville natale. J'adorai jouer au football quand j'étais plus jeune,
+        mais maintenant je préfère le regarder car j'ai développer une épilepsie clonique. J'adore égallement les sports 
+        de combat tel que la UFC. Je trouve ça tellement le fun à regarder et en comparaison au football américain, c'est
+        exxtrêment facile à comprendre. En dehors de ça, j'ai 1 chat (prénomer Arafat) et une (chienne prénommée Louna).      
+        </p>
+    </section>
+
+    <section class="section">
+        <h2>CV</h2>
+        <p>Pour accèder à mon CV, vous pourrez le downloader ci dessous // To access my CV, you can download it below. 
+            <a href="https://github.com/whoizJAKE/MyCv" download>CV</a></p>
+    </section>
+
+    <section class="section">
+        <h2>Mes </h2>
+        <p>My future project and stuff....</p>
+        <!-- You can add file upload functionality here -->
+    </section>
+
+    <footer>
+        <p>Contact: jico0x7@gmail.com | Phone: +819-829-2436 (ligne terreste) ou au +819-640-9235 (cell) </p>
+    </footer>
+</body>
+
+</html>
